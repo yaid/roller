@@ -1,0 +1,19 @@
+<span style="color: #000000">La impresora de report no imprime por diversos motivos. </span>
+<h2 style="color: #000000"><span id="Falta_de_hojas" class="mw-headline">Falta de hojas</span></h2>
+<p style="color: #000000">Hay que verificar que la impresora tenga hojas para continuar imprimiendo.</p>
+
+<h2 style="color: #000000"><span id="Hojas_atoradas" class="mw-headline">Hojas atoradas</span></h2>
+<p style="color: #000000">Si la impresora marca un error hay que verificar que no tenga hojas atoradas en los mecanismos que ayudan a hacer salir la hoja ya una vez impresa.</p>
+
+<h2 style="color: #000000"><span id="Falta_de_tonner" class="mw-headline">Falta de tonner</span></h2>
+<p style="color: #000000">Debido al uso constante la impresora se queda sin tonner, esto se ve reflejado en la calidad del color en la impresión que va disminuyendo en cada impresión. Hay que cambiar el tonner.</p>
+
+<h2 style="color: #000000"><span id="Cable_de_datos_suelto" class="mw-headline">Cable de datos suelto</span></h2>
+<p style="color: #000000">El cable de datos esta suelto, hay que verificar que el cable al cual esta conectada la impresora este bien fijo, para esto hay que ver que tipo de cable es si es cable <a style="color: #0b0080" title="Cable USB" href="http://192.168.19.250/knowledgebase/cable-usb/" target="_blank">USB</a> o <a style="color: #0b0080" title="Cable de red" href="http://192.168.19.250/knowledgebase/cable-de-red/" target="_blank">Cable de Red</a>.</p>
+
+<h2 style="color: #000000"><span id="Cable_voltaje_suelto" class="mw-headline">Cable voltaje suelto</span></h2>
+<p style="color: #000000">La impresora como es un dispositivo que requiere el uso de corriente eléctrica, hay que verificar que el cable este correctamente conectado tanto al dispositivo como a la corriente, o si tiene aun tipo de fuente de regulación de voltaje hay que verificar que este bien conectada.</p>
+
+<h2 style="color: #000000"><span id="Impresora_mal_cerrada" class="mw-headline">Impresora mal cerrada</span></h2>
+<p style="color: #000000">Cada que se cambia el tonner y se abre porque las hojas se atoran hay que verificar que la impresora quede bien cerrada y no muestre error algún con las compuertas.</p>
+<p style="color: #000000"><strong>Nota:</strong> <em>En caso de no funcionar lo anterior, favor de apagar y volver a prender la impresora.</em></p>
